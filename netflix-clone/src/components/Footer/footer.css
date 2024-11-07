@@ -31,7 +31,7 @@
 .footer_data ul li{
     cursor: pointer;
 }
-.service_code{
+.server_code{
     display: flex;
     align-items: center;
     justify-content: center;
